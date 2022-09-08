@@ -1,1 +1,1 @@
-my first fresh commit A001
+my first feature B001
